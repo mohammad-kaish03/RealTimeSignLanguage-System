@@ -52,33 +52,6 @@ The system follows a machine learning pipeline:
 
 ---
 
-## 🚀 How to Run the Project
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/yourusername/sign-language-recognition.git
-```
-
-### 2️⃣ Navigate to the project directory
-
-```bash
-cd sign-language-recognition
-```
-
-### 3️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Run the application
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## 📊 Results
 
