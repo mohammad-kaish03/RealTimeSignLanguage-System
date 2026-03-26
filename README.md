@@ -44,8 +44,6 @@ This project enables gesture-based communication by translating hand signs into 
 
 ## 📸 Demo
 
-<img width="1916" height="905" alt="demo2" src="https://github.com/user-attachments/assets/f1f68d1c-0ed9-48a3-850e-c7a9ee16694f" />
-
 
 ![Demo 1](images/demo1.png)
 ![Demo 2](images/demo2.png)
