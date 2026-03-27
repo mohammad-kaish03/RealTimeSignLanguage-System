@@ -61,6 +61,8 @@ streamlit run app.py
 ```
 
 ---
+## 🌐 Live Demo
+[Try the App](https://realtimesignlanguage.streamlit.app/)
 
 ## 📂 Project Structure
 
