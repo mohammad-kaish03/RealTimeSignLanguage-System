@@ -7,3 +7,6 @@ opencv-python-headless==4.9.0.80
 mediapipe==0.10.9
 joblib==1.3.2
 pillow==9.5.0
+
+# 🔥 ADD THIS LINE
+opencv-contrib-python-headless==4.9.0.80
